@@ -56,27 +56,27 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/rear-view-male-architect-holding-blueprint-hard-hat-looking-construction-site_23-2148203954.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/rear-view-male-architect-holding-blueprint-hard-hat-looking-construction-site_23-2148203954.jpg?_wi=1",
           imageAlt: "Modern architecture project exterior",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-136.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-136.jpg?_wi=1",
           imageAlt: "Professional construction management team",
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/building-construction_1122-1179.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/building-construction_1122-1179.jpg?_wi=1",
           imageAlt: "Architectural building site development",
         },
         {
           id: "4",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-person-working-construction-industry_23-2151349688.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-person-working-construction-industry_23-2151349688.jpg?_wi=1",
           imageAlt: "Construction workers at building site",
         },
         {
           id: "5",
-          imageSrc: "http://img.b2bpic.net/free-photo/architect-designing-new-project_23-2148242953.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/architect-designing-new-project_23-2148242953.jpg?_wi=1",
           imageAlt: "Modern residential development construction",
         },
         {
@@ -168,7 +168,7 @@ export default function LandingPage() {
           quote: "Alarm Building is the standard for quality in our city.",
           tag: "Commercial",
           avatarSrc: "http://img.b2bpic.net/free-photo/confident-handsome-middle-aged-entrepreneur_1262-4871.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/rear-view-male-architect-holding-blueprint-hard-hat-looking-construction-site_23-2148203954.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/rear-view-male-architect-holding-blueprint-hard-hat-looking-construction-site_23-2148203954.jpg?_wi=2",
           imageAlt: "happy client portrait professional",
         },
         {
@@ -179,7 +179,7 @@ export default function LandingPage() {
           quote: "Collaborating with Alarm was seamless and efficient.",
           tag: "Renovation",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-men-working-project_23-2148920575.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-136.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-136.jpg?_wi=2",
           imageAlt: "happy client portrait professional",
         },
         {
@@ -190,7 +190,7 @@ export default function LandingPage() {
           quote: "Reliable, on budget, and incredible craftsmanship.",
           tag: "Commercial",
           avatarSrc: "http://img.b2bpic.net/free-photo/positive-confident-businessman-posing-outside_74855-1183.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/building-construction_1122-1179.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/building-construction_1122-1179.jpg?_wi=2",
           imageAlt: "happy client portrait professional",
         },
         {
@@ -201,7 +201,7 @@ export default function LandingPage() {
           quote: "Our dream home became a reality ahead of schedule.",
           tag: "Residential",
           avatarSrc: "http://img.b2bpic.net/free-photo/two-young-happy-women-using-smartphone-by-table_171337-14879.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-person-working-construction-industry_23-2151349688.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-person-working-construction-industry_23-2151349688.jpg?_wi=2",
           imageAlt: "happy client portrait professional",
         },
         {
@@ -212,7 +212,7 @@ export default function LandingPage() {
           quote: "The most professional construction team I've worked with.",
           tag: "Development",
           avatarSrc: "http://img.b2bpic.net/free-photo/coworkers-doing-paperwork-office_273609-6924.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/architect-designing-new-project_23-2148242953.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/architect-designing-new-project_23-2148242953.jpg?_wi=2",
           imageAlt: "happy client portrait professional",
         },
       ]}
